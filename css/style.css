@@ -8,10 +8,14 @@ header {
     margin-top: 70px;
 }
 
-img{
+.img_padrao {
     margin-bottom: 20px;
+    width: 300px;
 }
 
+.logo {
+    width: 30px;
+}
 h1 {
     color: red;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
